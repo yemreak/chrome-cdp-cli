@@ -7,8 +7,12 @@
   },
   "files": [
     "index.ts",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
+  "scripts": {
+    "prepublishOnly": "chmod +x index.ts"
+  },
   "keywords": [
     "chrome",
     "devtools",
