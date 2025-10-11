@@ -1,0 +1,36 @@
+{
+  "name": "@yemreak/chrome-cdp",
+  "version": "0.1.0",
+  "description": "Chrome DevTools Protocol CLI - automation/testing/debugging",
+  "bin": {
+    "chrome-cdp": "./index.ts"
+  },
+  "files": [
+    "index.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "chrome",
+    "devtools",
+    "cdp",
+    "automation",
+    "testing",
+    "debugging",
+    "screenshot",
+    "cli"
+  ],
+  "author": "yemreak",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yemreak/chrome-cdp-cli.git"
+  },
+  "homepage": "https://github.com/yemreak/chrome-cdp-cli",
+  "bugs": "https://github.com/yemreak/chrome-cdp-cli/issues",
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "requirements": {
+    "chrome": "Google Chrome browser"
+  }
+}
