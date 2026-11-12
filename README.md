@@ -1,5 +1,7 @@
 # @yemreak/chrome-cdp
 
+> **[optionOS](https://optionos.app/)** — Show AI what you mean. Stay in your flow. <!-- optionos -->
+
 ## Usage
 
 ```bash
